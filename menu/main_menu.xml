@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/average"
+        android:title="@string/getAvg" />
+    <item android:id="@+id/resetSave"
+        android:title="@string/reset_save" />
+    <item android:id="@+id/addQues"
+        android:title="@string/add_quest" />
+</menu>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="false_str">False</string>
+    <string name="true_str">True</string>
+    <string name="questionTxt">Initial Text</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="res_title">Result</string>
+    <string name="sav">Save</string>
+    <string name="ign">Ignore</string>
+    <string name="q1">Calgary is the capital city of Canada</string>
+    <string name="q2">Toronto is the capital of United States</string>
+    <string name="q3">Quebec is the french are of Canada</string>
+    <string name="q4">Kelowna is the only Canadian desert</string>
+    <string name="totScore">Your score is: </string>
+    <string name="totOutOf"> out of </string>
+    <string name="getAvg">Get the average</string>
+    <string name="add_quest">Add quiz question</string>
+    <string name="reset_save">Reset the saved result</string>
+    <string name="cor_ans">Your correct answers are</string>
+    <string name="cor_ans_in">in</string>
+    <string name="cor_ans_attempt">attempts</string>
+    <string name="save_ans">Saved answer</string>
+    <string name="pls_enter_ques">Please enter your question</string>
+    <string name="pls_choose_ans">Please choose your answer</string>
+    <string name="pls_color">Please choose your color</string>
+    <string name="subm">Submit</string>
+
+
+    <string-array name="quesArr">
+        <item>Calgary is the capital city of Canada</item>
+        <item>Toronto is the capital of United States</item>
+        <item>Quebec is the french are of Canada</item>
+        <item>Kelowna is the only Canadian desert</item>
+        <item>Toronto\'s population is greater than 3000000</item>
+        <item>Canada\'s Birthday is January 1</item>
+        <item>Canada\'s first PM was John Alexander MacDonald</item>
+
+
+    </string-array>
+
+    <string-array name="Color_usrInput_array">
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Pink</item>
+    </string-array>
+
+</resources>

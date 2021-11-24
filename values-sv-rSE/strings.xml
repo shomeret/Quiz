@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="false_str">Falsk</string>
+    <string name="true_str">Sann</string>
+    <string name="questionTxt">Inledande text</string>
+    <string name="correct">korrekt</string>
+    <string name="incorrect">felaktig</string>
+    <string name="res_title">Resultat</string>
+    <string name="sav">Spara</string>
+    <string name="ign">Ignorera</string>
+    <string name="q1">Calgary är huvudstaden i Kanada</string>
+    <string name="q2">Toronto är huvudstaden i USA</string>
+    <string name="q3">Quebec är den franska delen av Kanada</string>
+    <string name="q4">Kelowna är den enda kanadensiska öknen</string>
+    <string name="totScore">Ditt resultat är: </string>
+    <string name="totOutOf"> ut ur </string>
+    <string name="getAvg">Få genomsnittet</string>
+    <string name="add_quest">Lägg till frågesportfråga</string>
+    <string name="reset_save">Återställ det sparade resultatet</string>
+    <string name="cor_ans">Dina rätta svar är </string>
+    <string name="cor_ans_in">i</string>
+    <string name="cor_ans_attempt">försök</string>
+    <string name="save_ans">sparat svar</string>
+    <string name="pls_enter_ques">Ange din fråga</string>
+    <string name="pls_choose_ans">Välj ditt svar</string>
+    <string name="pls_color">Välj din färg</string>
+    <string name="subm">Skicka in</string>
+
+
+    <string-array name="quesArr">
+        <item>Calgary är huvudstaden i Kanada</item>
+        <item>Toronto är huvudstaden i USA</item>
+        <item>Quebec är den franska delen av Kanada</item>
+        <item>Kelowna är den enda kanadensiska öknen</item>
+        <item>Torontos befolkning är mer än 3 000 000</item>
+        <item>Kanadas födelsedag är den 1 januari</item>
+        <item>Kanadas första premiärminister var John Alexander MacDonald</item>
+    </string-array>
+
+
+</resources>
